@@ -21,8 +21,11 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 
 * [Introduction to Open Knowledge Graphs](#introduction-to-OKG)
 * [Papers by venues](#papers-sorted-in-chronological-order)
-  * [2021](#2021)
   * [2022](#2022)
+  * [2021](#2021)
+  * [2019](#2019)
+  * [2018](#2018)
+  * [2014](#2014)
 * [Papers by categories](#papers-grouped-by-category)
   * [Surveys](#surveys)
   * [Evaluation](#evaluation)
@@ -53,17 +56,17 @@ An OIE system aims to make the following extractions:
    
 ### 2022
 
-* [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - KDD 2022
+* [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - SIGKDD 2022 ([code](https://github.com/Yang233666/CMVC))
 
    Wei Shen, Yang Yang, Yinan Liu
 
 ### 2021
 
-* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021
+* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL))
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
     
-* [*"TENET: Joint Entity and Relation Linking with Coherence Relaxation"*](https://dl.acm.org/doi/abs/10.1145/3448016.3457280) - SIGMOD 2021
+* [*"TENET: Joint Entity and Relation Linking with Coherence Relaxation"*](https://dl.acm.org/doi/abs/10.1145/3448016.3457280) - SIGMOD 2021 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FTENET%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) ([Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FTENET%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
 
     Xueling Lin, Lei Chen, Chaorui Zhang
 
@@ -161,7 +164,7 @@ An OIE system aims to make the following extractions:
 
 ### Open Knowledge Graph Canonicalization
    
-* [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - KDD 2022
+* [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - SIGKDD 2022
 
    Wei Shen, Yang Yang, Yinan Liu
 
