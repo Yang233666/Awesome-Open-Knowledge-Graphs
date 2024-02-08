@@ -12,6 +12,7 @@
 </h5>
 
 > A collection of important **Open Knowledge Graph (OKG)** resources: research papers, code, data, applications, etc. 
+
 This collection is not limited to Open Knowledge Graphs but also includes their downstream applications.
 
 > We will try to make this list updated frequently. If you find any error or any missed paper, please don't hesitate to open issues or pull requests.
@@ -19,11 +20,11 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 
 ## Table of contents
 
-* [Introduction to OKG](#introduction-to-OKG)
-* [Papers sorted in chronological order](#papers-sorted-in-chronological-order)
+* [Introduction to Open Knowledge Graphs](#introduction-to-OKG)
+* [Papers by venues](#papers-sorted-in-chronological-order)
   * [2021](#2021)
   * [2022](#2022)
-* [Papers grouped by category](#papers-grouped-by-category)
+* [Papers by categories](#papers-grouped-by-category)
   * [Surveys](#surveys)
   * [Evaluation](#evaluation)
   * [Open Knowledge Graph for downstream applications](#okg-for-downstream-applications)
@@ -36,7 +37,7 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
   * [OIE corpora](#oie-corpora)
   * [Resources derived from OIE output](#resources-derived-from-oie-output)
 
-## Introduction to OIE
+## Introduction to Open Knowledge Graphs
 
 Open Information Extraction (OIE) systems aim to extract unseen relations and their arguments from unstructured text in unsupervised manner. In its simplest form, given a natural language sentence, they extract information in the form of a triple, consisted of subject (S), relation (R) and object (O).
 
@@ -49,36 +50,33 @@ An OIE system aims to make the following extractions:
     ("AMD"; "is based in"; "U.S.")
     ("AMD"; "is"; "technology company")
 
-## Papers sorted in chronological order
-
-### 2018
-
-* *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/citation.cfm?id=3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
-  
-  Shikhar Vashishth, Prince Jain, Partha Talukdar
-  
-### 2019
-
-* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 ([data + resources](https://www.uni-mannheim.de/dws/research/resources/opiec/), [code (data reading)](https://github.com/uma-pi1/OPIEC), [code (pipeline)](https://github.com/uma-pi1/OPIEC-pipeline))
-
-  Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla
-  
-  * *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
-
-   Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
+## Papers by venues
    
-* *["Collaborative Policy Learning for Open Knowledge Graph Reasoning"](https://www.aclweb.org/anthology/D19-1269.pdf)* - EMNLP 2019 ([code](https://github.com/INK-USC/CPL))
- 
-   Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
-   
-   * *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019
+### 2022
 
-   Xueling Lin, Lei Chen
-   
-* *["Open Relation Extraction for Chinese Noun Phrases"](https://ieeexplore.ieee.org/abstract/document/8903488)* - TKDE 2019
 
-   Chengyu Wang, Xiaofeng He, Aoying Zhou
-      
+### 2021
+   
+* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225/) - ACL 2021
+
+   	Chandrahas, Partha Pratim Talukdar
+    
+* [*"Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811/) - EMNLP 2021 ([code](https://github.com/IBM/Open-KG-canonicalization))
+
+    Sarthak Dash, Gaetano Rossiello, Nandana Mihindukulasooriya, Sugato Bagchi, Alfio Gliozzo
+   
+* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021
+
+   	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
+    
+* [*"TENET: Joint Entity and Relation Linking with Coherence Relaxation"*](https://dl.acm.org/doi/abs/10.1145/3448016.3457280) - SIGMOD 2021
+
+    Xueling Lin, Lei Chen, Chaorui Zhang
+
+* [*"CaSIE: Canonicalize and Informative Selection of the OpenIE system"*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825) - ICDE 2021
+
+   Hao Xin, Xueling Lin, Lei Chen
+
 ### 2020
   
 * [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study), [slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf), [resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) - Eval4NLP@EMNLP 2020
@@ -100,31 +98,38 @@ An OIE system aims to make the following extractions:
 * [*"Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network"*](https://arxiv.org/pdf/2006.09610.pdf) - CoRR 2020
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
+
+### 2019
+
+* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 ([data + resources](https://www.uni-mannheim.de/dws/research/resources/opiec/), [code (data reading)](https://github.com/uma-pi1/OPIEC), [code (pipeline)](https://github.com/uma-pi1/OPIEC-pipeline))
+
+  Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla
+  
+  * *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
+
+   Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
    
-* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225/) - ACL 2021
-
-   	Chandrahas, Partha Pratim Talukdar
-    
-* [*"Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811/) - EMNLP 2021 ([code](https://github.com/IBM/Open-KG-canonicalization))
-
-    Sarthak Dash, Gaetano Rossiello, Nandana Mihindukulasooriya, Sugato Bagchi, Alfio Gliozzo
+* *["Collaborative Policy Learning for Open Knowledge Graph Reasoning"](https://www.aclweb.org/anthology/D19-1269.pdf)* - EMNLP 2019 ([code](https://github.com/INK-USC/CPL))
+ 
+   Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
    
-* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021
+* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019
 
-   	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
-    
-* [*"TENET: Joint Entity and Relation Linking with Coherence Relaxation"*](https://dl.acm.org/doi/abs/10.1145/3448016.3457280) - SIGMOD 2021
-
-    Xueling Lin, Lei Chen, Chaorui Zhang
-
-* [*"CaSIE: Canonicalize and Informative Selection of the OpenIE system"*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825) - ICDE 2021
-
-   Hao Xin, Xueling Lin, Lei Chen
+   Xueling Lin, Lei Chen
    
-### 2022
+* *["Open Relation Extraction for Chinese Noun Phrases"](https://ieeexplore.ieee.org/abstract/document/8903488)* - TKDE 2019
+
+   Chengyu Wang, Xiaofeng He, Aoying Zhou
+
+### 2018
+
+* *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/citation.cfm?id=3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
+  
+  Shikhar Vashishth, Prince Jain, Partha Talukdar
 
 
-## Papers grouped by category
+
+## Papers by categories
 
 ### Surveys
 
