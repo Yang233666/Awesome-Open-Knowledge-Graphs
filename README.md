@@ -30,9 +30,9 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 * [Papers by categories](#papers-grouped-by-category)
   * [Survey Papers](#surveys)
   * [Evaluation](#evaluation)
-  * [Open Knowledge Graph for downstream applications](#okg-for-downstream-applications)
-    * [Open Knowledge Graph Link Prediction](#okg-link-prediction)
   * [Open Knowledge Graph Canonicalization](#okg-anonicalization)
+  * [Open Knowledge Graph Link Prediction](#okg-link-prediction)
+  * [Open Knowledge Graph for downstream applications](#okg-for-downstream-applications)
 * [Slides](#slides)
 * [Talks](#talks)
 * [Code](#code)
@@ -58,7 +58,7 @@ An OIE system aims to make the following extractions:
    
 ### 2022
 
-* [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - SIGKDD 2022 ([code](https://github.com/Yang233666/CMVC))
+* [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - SIGKDD 2022 ([code](https://github.com/Yang233666/CMVC)) ([video](https://dl.acm.org/doi/10.1145/3534678.3539449))
 
    Wei Shen, Yang Yang, Yinan Liu
 
@@ -86,15 +86,15 @@ An OIE system aims to make the following extractions:
 
 ### 2020
 
-* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) ([Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) - VLDB 2020
+* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - VLDB 2020 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) ([Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
 
    Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
    
-* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction)) - ACL 2020
+* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) - ACL 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
 
-* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study), [slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf), [resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) - Eval4NLP@EMNLP 2020
+* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) - Eval4NLP@EMNLP 2020 [resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)), ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study), [slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf)
 
    Kiril Gashteovski, Rainer Gemulla, Bhushan Kotnis, Sven Hertling, Christian Meilicke
       
@@ -164,13 +164,13 @@ An OIE system aims to make the following extractions:
 
    	Chandrahas, Partha Pratim Talukdar
     
-* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction)) - ACL 2020
+* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) - ACL 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
 
 ### Open Knowledge Graph Canonicalization
    
-* [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - SIGKDD 2022
+* [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - SIGKDD 2022 ([code](https://github.com/Yang233666/CMVC)) ([video](https://dl.acm.org/doi/10.1145/3534678.3539449))
 
    Wei Shen, Yang Yang, Yinan Liu
 
@@ -221,7 +221,7 @@ OKG's output has been shown to be a useful input for many downstream tasks. In t
 
 ### Entity and Relation Linking
 
-* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) ([Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) - VLDB 2020
+* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - VLDB 2020 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) ([Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
 
    Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
 
