@@ -23,11 +23,12 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 * [Papers by venues](#papers-sorted-in-chronological-order)
   * [2022](#2022)
   * [2021](#2021)
+  * [2020](#2020)
   * [2019](#2019)
   * [2018](#2018)
   * [2014](#2014)
 * [Papers by categories](#papers-grouped-by-category)
-  * [Surveys](#surveys)
+  * [Survey Papers](#surveys)
   * [Evaluation](#evaluation)
   * [Open Knowledge Graph for downstream applications](#okg-for-downstream-applications)
     * [Open Knowledge Graph Link Prediction](#okg-link-prediction)
@@ -38,6 +39,7 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 * [Data](#data)
   * [OIE corpora](#oie-corpora)
   * [Resources derived from OIE output](#resources-derived-from-oie-output)
+* [Other Repos](#others)
 
 ## Introduction to Open Knowledge Graphs
 
@@ -84,6 +86,10 @@ An OIE system aims to make the following extractions:
 
 ### 2020
 
+* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) ([Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) - VLDB 2020
+
+   Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
+   
 * [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction)) - ACL 2020
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
@@ -106,7 +112,7 @@ An OIE system aims to make the following extractions:
 
 ### 2019
 
-* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Ficde2019%5Fsist%5Fcode%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
+* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Ficde2019%5Fsist%5Fcode%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) ([Dataset Description](https://heathersherry.github.io/ICDE2019_data.html))
 
    Xueling Lin, Lei Chen
    
@@ -147,7 +153,7 @@ An OIE system aims to make the following extractions:
 
 ## Papers by categories
 
-### Surveys
+### Survey Papers
 
 
 ### Evaluation
@@ -168,7 +174,7 @@ An OIE system aims to make the following extractions:
 
    Wei Shen, Yang Yang, Yinan Liu
 
-* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021
+* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL))
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
     
@@ -188,7 +194,7 @@ An OIE system aims to make the following extractions:
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
 
-* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019
+* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Ficde2019%5Fsist%5Fcode%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) ([Dataset Description](https://heathersherry.github.io/ICDE2019_data.html))
 
    Xueling Lin, Lei Chen
    
@@ -209,9 +215,17 @@ An OIE system aims to make the following extractions:
   Luis Galárraga, Geremy Heitz, Kevin Murphy, Fabian M. Suchanek
   
   
-### OIE for downstream applications
+### OKGs for downstream applications
 
-OIE's output has been shown to be a useful input for many downstream tasks. In this section, several downstream tasks that benefited from OIE output are listed. 
+OKG's output has been shown to be a useful input for many downstream tasks. In this section, several downstream tasks that benefited from OKG output are listed. 
+
+### Entity and Relation Linking
+
+* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) ([Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) - VLDB 2020
+
+   Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
+
+
    
 
 ## Slides
@@ -252,3 +266,11 @@ OIE output is used as a useful input in many other downstream tasks, such as que
 * [PATTY](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/patty/): PATTY is a system that takes open relations between two arguments, structures them into relational synsets and then organizes the synsets into a taxonomy. This resource contains over 15M triples with disambiguated arguments (links to WikiPedia articles) and relation synset ID between them. Additionaly, the resource contains: 1) relation pattern synsets with type signatures; 2) relation pattern subsumptions; 3) relation paraphrases; 4) evaluation data;
 * [WiseNet (1.0 and 2.0)](http://lcl.uniroma1.it/wisenet/): similarly as PATTY, WiseNet 1.0/2.0 is a source containing of OIE triples, where the arguments are disambiguated and the open relations are organized into relation synsets and then taxonomized. One of the main differences between PATTY and WiseNet is that WiseNet contains "golden links" for the arguments (annotated by humans) by keeping the original links from the WikiPedia articles.
 * [KB-Unify](http://lcl.uniroma1.it/kb-unify/): KB-Unify takes as an input several OIE corpora and unifies them into a single disambiguated OIE repository. The open relations are organized into relational synsets and the arguments are disambiguated with BabelFy. 
+
+## Other Repos
+
+- [knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs?tab=readme-ov-file#survey), created by [Shaoxiong Ji](https://www.mv.helsinki.fi/home/shaoxion/) from University of Helsinki.
+
+- [Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning/tree/main), created by [Ke Liang](https://dblp.org/pid/48/73-6.html) from National University of Defense Technology.
+
+- [oie-resources](https://github.com/gkiril/oie-resources), created by [Kiril Gashteovski](https://www.linkedin.com/in/gashteovski/) from NEC Laboratories Europe.
