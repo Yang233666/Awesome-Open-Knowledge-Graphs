@@ -106,7 +106,7 @@ An OIE system aims to make the following extractions:
 
 ### 2019
 
-* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019
+* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Ficde2019%5Fsist%5Fcode%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
 
    Xueling Lin, Lei Chen
    
