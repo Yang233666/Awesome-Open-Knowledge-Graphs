@@ -12,7 +12,6 @@
 </h5>
 
 > A collection of important **Open Knowledge Graph (OKG)** resources: research papers, code, data, applications, etc. 
-
 This collection is not limited to Open Knowledge Graphs but also includes their downstream applications.
 
 > We will try to make this list updated frequently. If you find any error or any missed paper, please don't hesitate to open issues or pull requests.
@@ -54,6 +53,9 @@ An OIE system aims to make the following extractions:
    
 ### 2022
 
+* [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - KDD 2022
+
+   Wei Shen, Yang Yang, Yinan Liu
 
 ### 2021
    
@@ -105,7 +107,7 @@ An OIE system aims to make the following extractions:
 
   Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla
   
-  * *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
+* *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
 
    Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
    
