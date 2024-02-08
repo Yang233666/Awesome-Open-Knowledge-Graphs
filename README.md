@@ -1,20 +1,34 @@
-# open-knowledge-graph-resources
-A collection of important Open Knowledge Graph (OKG) resources: research papers, code, data, applications, etc. 
+<h1 align="center"> Awesome-Open-Knowledge-Graphs </a></h2>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
+
+<h5 align="center">
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub issues](https://img.shields.io/github/issues/Yang233666/Awesome-Open-Knowledge-Graphs)](https://github.com/Yang233666/Awesome-Open-Knowledge-Graphs/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Yang233666/Awesome-Open-Knowledge-Graphs)](https://github.com/Yang233666/Awesome-Open-Knowledge-Graphs/network)
+[![GitHub stars](https://img.shields.io/github/stars/Yang233666/Awesome-Open-Knowledge-Graphs)](https://github.com/Yang233666/Awesome-Open-Knowledge-Graphs/stargazers)
+
+</h5>
+
+> A collection of important **Open Knowledge Graph (OKG)** resources: research papers, code, data, applications, etc. 
 This collection is not limited to Open Knowledge Graphs but also includes their downstream applications.
+
+> We will try to make this list updated frequently. If you find any error or any missed paper, please don't hesitate to open issues or pull requests.
 
 
 ## Table of contents
 
-* [Introduction to OIE](#introduction-to-oie)
+* [Introduction to OKG](#introduction-to-OKG)
 * [Papers sorted in chronological order](#papers-sorted-in-chronological-order)
   * [2021](#2021)
   * [2022](#2022)
 * [Papers grouped by category](#papers-grouped-by-category)
   * [Surveys](#surveys)
   * [Evaluation](#evaluation)
-  * [OIE for downstream applications](#oie-for-downstream-applications)
-    * [Open Link Prediction](#open-link-prediction)
-  * [Canonicalization of OIE](#canonicalization-of-oie)
+  * [Open Knowledge Graph for downstream applications](#okg-for-downstream-applications)
+    * [Open Knowledge Graph Link Prediction](#okg-link-prediction)
+  * [Open Knowledge Graph Canonicalization](#okg-anonicalization)
 * [Slides](#slides)
 * [Talks](#talks)
 * [Code](#code)
