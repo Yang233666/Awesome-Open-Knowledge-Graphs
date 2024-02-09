@@ -263,9 +263,10 @@ OIE output is used as a useful input in many other downstream tasks, such as que
 
 ## Other Repos
 
-- [knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs?tab=readme-ov-file#survey), created by [Shaoxiong Ji](https://www.mv.helsinki.fi/home/shaoxion/) from University of Helsinki.
+- [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG), created by [Linhao Luo](https://rmanluo.github.io) from Monash University.
 
 - [Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning/tree/main), created by [Ke Liang](https://dblp.org/pid/48/73-6.html) from National University of Defense Technology.
 
 - [oie-resources](https://github.com/gkiril/oie-resources), created by [Kiril Gashteovski](https://www.linkedin.com/in/gashteovski/) from NEC Laboratories Europe.
 
+- [knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs?tab=readme-ov-file#survey), created by [Shaoxiong Ji](https://www.mv.helsinki.fi/home/shaoxion/) from University of Helsinki.
