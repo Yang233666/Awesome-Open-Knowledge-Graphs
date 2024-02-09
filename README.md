@@ -19,20 +19,20 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 
 ## Table of contents
 
-* [Introduction to Open Knowledge Graphs](#introduction-to-OKG)
-* [Papers by venues](#papers-grouped-by-venues)
-* [Papers by categories](#papers-grouped-by-category)
-  * [Survey Papers](#surveys)
-  * [Evaluation](#evaluation)
-  * [Open Knowledge Graph Canonicalization](#okg-canonicalization)
-  * [Open Knowledge Graph Link Prediction](#okg-link-prediction)
-  * [Open Knowledge Graph for downstream applications](#okg-for-downstream-applications)
-* [Slides](#slides)
-* [Talks](#talks)
-* [Code](#code)
-* [Data](#data)
-  * [OIE corpora](#oie-corpora)
-* [Other Repos](#others)
+- [Introduction to Open Knowledge Graphs](#introduction-to-OKG)
+- [Papers by venues](#papers-grouped-by-venues)
+- [Papers by categories](#papers-grouped-by-category)
+  - [Survey Papers](#surveys)
+  - [Evaluation](#evaluation)
+  - [Open Knowledge Graph Canonicalization](#okg-canonicalization)
+  - [Open Knowledge Graph Link Prediction](#okg-link-prediction)
+  - [Open Knowledge Graph for downstream applications](#okg-for-downstream-applications)
+- [Slides](#slides)
+- [Talks](#talks)
+- [Code](#code)
+- [Data](#data)
+  - [OIE corpora](#oie-corpora)
+- [Other Repos](#others)
 
 
 ## Introduction to Open Knowledge Graphs
