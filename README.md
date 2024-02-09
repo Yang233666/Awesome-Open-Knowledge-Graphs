@@ -20,11 +20,11 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 ## Table of contents
 
 * [Introduction to Open Knowledge Graphs](#introduction-to-OKG)
-* [Papers by venues](#papers-sorted-in-chronological-order)
+* [Papers by venues](#papers-grouped-by-venues)
 * [Papers by categories](#papers-grouped-by-category)
   * [Survey Papers](#surveys)
   * [Evaluation](#evaluation)
-  * [Open Knowledge Graph Canonicalization](#okg-anonicalization)
+  * [Open Knowledge Graph Canonicalization](#okg-canonicalization)
   * [Open Knowledge Graph Link Prediction](#okg-link-prediction)
   * [Open Knowledge Graph for downstream applications](#okg-for-downstream-applications)
 * [Slides](#slides)
@@ -32,7 +32,6 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 * [Code](#code)
 * [Data](#data)
   * [OIE corpora](#oie-corpora)
-  * [Resources derived from OIE output](#resources-derived-from-oie-output)
 * [Other Repos](#others)
 
 
@@ -119,7 +118,6 @@ An OIE system aims to make the following extractions:
 
   Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla
    
-
 ### 2018
 
 * *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/citation.cfm?id=3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
