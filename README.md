@@ -109,10 +109,6 @@ An OIE system aims to make the following extractions:
 * *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Ficde2019%5Fsist%5Fcode%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) ([Dataset Description](https://heathersherry.github.io/ICDE2019_data.html))
 
    Xueling Lin, Lei Chen
-   
-* *["Open Relation Extraction for Chinese Noun Phrases"](https://ieeexplore.ieee.org/abstract/document/8903488)* - TKDE 2019
-
-   Chengyu Wang, Xiaofeng He, Aoying Zhou
 
 * *["CaRe: Open Knowledge Graph Embeddings"](https://aclanthology.org/D19-1036.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
 
@@ -203,6 +199,12 @@ An OIE system aims to make the following extractions:
 * *["CaRe: Open Knowledge Graph Embeddings"](https://aclanthology.org/D19-1036.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
 
    Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
+
+### Open Knowledge Graph Reasoning
+
+* *["Collaborative Policy Learning for Open Knowledge Graph Reasoning"](https://www.aclweb.org/anthology/D19-1269.pdf)* - EMNLP 2019 ([code](https://github.com/INK-USC/CPL))
+ 
+   Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
   
 ### OKGs for downstream applications
 
