@@ -21,6 +21,12 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 
 - [Introduction to Open Knowledge Graphs](#introduction-to-open-knowledge-graphs)
 - [Papers by venues](#papers-by-venues)
+  * [2022](#2022)
+  * [2021](#2021)
+  * [2020](#2020)
+  * [2019](#2019)
+  * [2018](#2018)
+  * [2014](#2014)
 - [Papers by categories](#papers-by-categories)
   * [Survey Papers](#survey-papers)
   * [Evaluation](#evaluation)
@@ -84,11 +90,11 @@ An OIE system aims to make the following extractions:
 
    Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
    
-* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) - ACL 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/)), ([video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
+* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) - ACL 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/)) ([video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
 
-* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) - Eval4NLP@EMNLP 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)), ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study)), ([slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf))
+* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) - Eval4NLP@EMNLP 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study)) ([slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf))
 
    Kiril Gashteovski, Rainer Gemulla, Bhushan Kotnis, Sven Hertling, Christian Meilicke
       
@@ -118,7 +124,7 @@ An OIE system aims to make the following extractions:
  
    Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
    
-* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 ([data + resources](https://www.uni-mannheim.de/dws/research/resources/opiec/), [code (data reading)](https://github.com/uma-pi1/OPIEC), [code (pipeline)](https://github.com/uma-pi1/OPIEC-pipeline))
+* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 ([data + resources](https://www.uni-mannheim.de/dws/research/resources/opiec/) [code (data reading)](https://github.com/uma-pi1/OPIEC) [code (pipeline)](https://github.com/uma-pi1/OPIEC-pipeline))
 
   Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla
    
@@ -193,7 +199,7 @@ An OIE system aims to make the following extractions:
 
    	Chandrahas, Partha Pratim Talukdar
     
-* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) - ACL 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
+* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) - ACL 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/) [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
 
@@ -209,7 +215,7 @@ An OIE system aims to make the following extractions:
 
 ### Open Knowledge Graph Alignment
 
-* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) - Eval4NLP@EMNLP 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)), ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study)), ([slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf))
+* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) - Eval4NLP@EMNLP 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study)) ([slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf))
 
    Kiril Gashteovski, Rainer Gemulla, Bhushan Kotnis, Sven Hertling, Christian Meilicke
    
@@ -223,12 +229,10 @@ OKG's output has been shown to be a useful input for many downstream tasks. In t
 
    Hao Xin, Xueling Lin, Lei Chen
 
-* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - VLDB 2020 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) ([Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
+* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - VLDB 2020 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) ([Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
 
    Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
 
-
-   
 
 ## Slides
 * [\[pdf\] *"Compact Open Information Extraction on Large Corpora"*](https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_People/Researchers/gashteovski/oie_nec_labs_gashteovski.pdf). Talk by Kiril Gashteovski given at NEC Labs Europe GmbH, 2019.
