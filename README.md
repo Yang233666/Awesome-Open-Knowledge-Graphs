@@ -62,84 +62,87 @@ An OIE system aims to make the following extractions:
    
 ### 2022
 
-[SIGKDD' 2022] **Multi-View Clustering for Open Knowledge Base Canonicalization** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) | [Code](https://github.com/Yang233666/CMVC) | [video](https://dl.acm.org/doi/10.1145/3534678.3539449)]
+[SIGKDD' 2022] **Multi-View Clustering for Open Knowledge Base Canonicalization** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) | [Code](https://github.com/Yang233666/CMVC) | [Video](https://dl.acm.org/doi/10.1145/3534678.3539449)]
+
 _Wei Shen, Yang Yang, Yinan Liu_
 
 ### 2021
 
-[SIGMOD' 2021] **Joint Open Knowledge Base Canonicalization and Linking** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3448016.3452776) | [code](https://github.com/JOCL-repo/JOCL) | [Video](https://dl.acm.org/doi/10.1145/3448016.3452776)]
+[SIGMOD' 2021] **Joint Open Knowledge Base Canonicalization and Linking** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3448016.3452776) | [Code](https://github.com/JOCL-repo/JOCL) | [Video](https://dl.acm.org/doi/10.1145/3448016.3452776)]
+
 _Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan_
 
 [ICDE' 2021] **CaSIE: Canonicalize and Informative Selection of the OpenIE system** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825)]
+
 _Hao Xin, Xueling Lin, Lei Chen_
 
-* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225.pdf) - ACL 2021 ([code](https://github.com/Chandrahasd/OKGIT)) ([video](https://aclanthology.org/2021.findings-acl.225.mp4))
+[ACL' 2021] **OKGIT: Open Knowledge Graph Link Prediction with Implicit Types** [[Paper](https://aclanthology.org/2021.findings-acl.225.pdf) | [Code](https://github.com/Chandrahasd/OKGIT) | [video](https://aclanthology.org/2021.findings-acl.225.mp4)]
 
-   	Chandrahas, Partha Pratim Talukdar
+_Chandrahas, Partha Pratim Talukdar_
     
-* [*"Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811.pdf) - EMNLP 2021 ([code](https://github.com/IBM/Open-KG-canonicalization)) ([video](https://aclanthology.org/2021.emnlp-main.811.mp4))
+[EMNLP' 2021] **Open Knowledge Graphs Canonicalization using Variational Autoencoders** [[Paper](https://aclanthology.org/2021.emnlp-main.811.pdf) | [Code](https://github.com/IBM/Open-KG-canonicalization) | [video](https://aclanthology.org/2021.emnlp-main.811.mp4)]
 
-    Sarthak Dash, Gaetano Rossiello, Nandana Mihindukulasooriya, Sugato Bagchi, Alfio Gliozzo
+_Sarthak Dash, Gaetano Rossiello, Nandana Mihindukulasooriya, Sugato Bagchi, Alfio Gliozzo_
 
 ### 2020
 
-* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - VLDB 2020 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) ([readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
+[VLDB' 2020] **KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking** [[paper](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) | [code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) | [readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)]
 
-   Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
+_Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen_
    
-* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://aclanthology.org/2020.acl-main.209.pdf) - ACL 2020 ([code](https://github.com/samuelbroscheit/open_knowledge_graph_embeddings)) ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/)) ([video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
+[ACL' 2020] **Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction** [[paper](https://aclanthology.org/2020.acl-main.209.pdf) | [code](https://github.com/samuelbroscheit/open_knowledge_graph_embeddings) | [resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/) | [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction)]
 
-   Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
+_Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla_
 
-* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://aclanthology.org/2020.eval4nlp-1.14.pdf) - Eval4NLP@EMNLP 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study)) ([slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf))
+[Eval4NLP@EMNLP' 2020] **On Aligning OpenIE Extractions with Knowledge Bases: A Case Study** [[paper](https://aclanthology.org/2020.eval4nlp-1.14.pdf) | [resources](https://www.uni-mannheim.de/dws/research/resources/opiec/) | [video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study) | [slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf)]
 
-   Kiril Gashteovski, Rainer Gemulla, Bhushan Kotnis, Sven Hertling, Christian Meilicke
+_Kiril Gashteovski, Rainer Gemulla, Bhushan Kotnis, Sven Hertling, Christian Meilicke_
       
-* *["MULCE: Multi-level Canonicalization with Embeddings of Open Knowledge Bases"](https://link.springer.com/chapter/10.1007/978-3-030-62005-9_23)* - WISE 2020
+[WISE' 2020] **MULCE: Multi-level Canonicalization with Embeddings of Open Knowledge Bases** [[paper](https://link.springer.com/chapter/10.1007/978-3-030-62005-9_23)]
 
-   Tien-Hsuan Wu, Ben Kao, Zhiyong Wu, Xiyang Feng, Qianli Song, Cheng Chen
+_Tien-Hsuan Wu, Ben Kao, Zhiyong Wu, Xiyang Feng, Qianli Song, Cheng Chen_
    
-* [*"Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network"*](https://arxiv.org/pdf/2006.09610.pdf) - CoRR 2020
+[CoRR' 2020] **Canonicalizing Open Knowledge Bases with Multi-Layered Meta-Graph Neural Network** [[paper](https://arxiv.org/pdf/2006.09610.pdf)]
 
-   Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
+_Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang_
 
- * [*Language Models are Open Knowledge Graphs*](https://arxiv.org/pdf/2010.11967.pdf) - CoRR 2020
+[CoRR' 2020] **Language Models are Open Knowledge Graphs** [[paper](https://arxiv.org/pdf/2010.11967.pdf)]
 
-   Chenguang Wang, Xiao Liu, Dawn Song
+_Chenguang Wang, Xiao Liu, Dawn Song_
 
 ### 2019
 
-* *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Ficde2019%5Fsist%5Fcode%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) ([dataset description](https://heathersherry.github.io/ICDE2019_data.html))
+[ICDE' 2019] **Canonicalization of Open Knowledge Bases with Side Information from the Source Text** [[paper](https://ieeexplore.ieee.org/abstract/document/8731346) | [code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Ficde2019%5Fsist%5Fcode%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) | [dataset description](https://heathersherry.github.io/ICDE2019_data.html)]
 
-   Xueling Lin, Lei Chen
+_Xueling Lin, Lei Chen_
 
-* *["CaRe: Open Knowledge Graph Embeddings"](https://aclanthology.org/D19-1036.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
+[EMNLP' 2019].**CaRe: Open Knowledge Graph Embeddings** [[paper](https://aclanthology.org/D19-1036.pdf) | [code](https://github.com/malllabiisc/CaRE)]
 
-   Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
+_Swapnil Gupta, Sreyash Kenkre, Partha Talukdar_
    
-* *["Collaborative Policy Learning for Open Knowledge Graph Reasoning"](https://www.aclweb.org/anthology/D19-1269.pdf)* - EMNLP 2019 ([code](https://github.com/INK-USC/CPL))
+[EMNLP' 2019] **Collaborative Policy Learning for Open Knowledge Graph Reasoning** [[paper](https://www.aclweb.org/anthology/D19-1269.pdf) | [code](https://github.com/INK-USC/CPL)]
  
-   Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
+_Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren_
    
-* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 ([data + resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) ([code (data reading)](https://github.com/uma-pi1/OPIEC)) ([code (pipeline)](https://github.com/uma-pi1/OPIEC-pipeline))
+[AKBC' 2019] **OPIEC: An Open Information Extraction Corpus** [[paper](https://openreview.net/pdf?id=HJxeGb5pTm) | [data + resources](https://www.uni-mannheim.de/dws/research/resources/opiec/) | [code (data reading)](https://github.com/uma-pi1/OPIEC) | [code (pipeline)](https://github.com/uma-pi1/OPIEC-pipeline)]
 
-  Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla
+_Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla_
    
 ### 2018
 
-* *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/doi/pdf/10.1145/3178876.3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
+[WWW' 2018] **CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information** [[paper](https://dl.acm.org/doi/pdf/10.1145/3178876.3186030) | [code](https://github.com/malllabiisc/cesi)]
   
-  Shikhar Vashishth, Prince Jain, Partha Talukdar
+_Shikhar Vashishth, Prince Jain, Partha Talukdar_
 
-* *["Towards Practical Open Knowledge Base Canonicalization"](https://dl.acm.org/doi/pdf/10.1145/3269206.3271707)* - CIKM 2018
+[CIKM' 2018] **Towards Practical Open Knowledge Base Canonicalization** [[paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3271707)]
 
-   Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin
+_Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin_
 
 ### 2014
 
-* *["Canonicalizing Open Knowledge Bases"](https://suchanek.name/work/publications/cikm2014.pdf)* - CIKM 2014
+[CIKM' 2014] **Canonicalizing Open Knowledge Bases** [[paper](https://suchanek.name/work/publications/cikm2014.pdf)]
 
-  Luis Galárraga, Geremy Heitz, Kevin Murphy, Fabian M. Suchanek
+_Luis Galárraga, Geremy Heitz, Kevin Murphy, Fabian M. Suchanek_
 
 
 
@@ -154,13 +157,13 @@ _Hao Xin, Xueling Lin, Lei Chen_
 
 ### Open Knowledge Graph Canonicalization
    
-* [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - SIGKDD 2022 ([code](https://github.com/Yang233666/CMVC)) ([video](https://dl.acm.org/doi/10.1145/3534678.3539449))
+[SIGKDD' 2022] **Multi-View Clustering for Open Knowledge Base Canonicalization** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) | [Code](https://github.com/Yang233666/CMVC) | [Video](https://dl.acm.org/doi/10.1145/3534678.3539449)]
 
-   Wei Shen, Yang Yang, Yinan Liu
+_Wei Shen, Yang Yang, Yinan Liu_
 
-* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/pdf/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL)) ([video](https://dl.acm.org/doi/10.1145/3448016.3452776))
+[SIGMOD' 2021] **Joint Open Knowledge Base Canonicalization and Linking** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3448016.3452776) | [Code](https://github.com/JOCL-repo/JOCL) | [Video](https://dl.acm.org/doi/10.1145/3448016.3452776)]
 
-   	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
+_Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan_
 
 * [*"Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811.pdf) - EMNLP 2021 ([code](https://github.com/IBM/Open-KG-canonicalization)) ([video](https://aclanthology.org/2021.emnlp-main.811.mp4))
 
@@ -178,17 +181,17 @@ _Hao Xin, Xueling Lin, Lei Chen_
 
    Xueling Lin, Lei Chen
 
-* *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/doi/pdf/10.1145/3178876.3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
+[WWW' 2018] **CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information** [[paper](https://dl.acm.org/doi/pdf/10.1145/3178876.3186030) | [code](https://github.com/malllabiisc/cesi)]
   
-  Shikhar Vashishth, Prince Jain, Partha Talukdar
+_Shikhar Vashishth, Prince Jain, Partha Talukdar_
 
-* *["Towards Practical Open Knowledge Base Canonicalization"](https://dl.acm.org/doi/pdf/10.1145/3269206.3271707)* - CIKM 2018
+[CIKM' 2018] **Towards Practical Open Knowledge Base Canonicalization** [[paper](https://dl.acm.org/doi/pdf/10.1145/3269206.3271707)]
 
-   Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin
+_Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin_
 
-* *["Canonicalizing Open Knowledge Bases"](https://suchanek.name/work/publications/cikm2014.pdf)* - CIKM 2014
+[CIKM' 2014] **Canonicalizing Open Knowledge Bases** [[paper](https://suchanek.name/work/publications/cikm2014.pdf)]
 
-  Luis Galárraga, Geremy Heitz, Kevin Murphy, Fabian M. Suchanek
+_Luis Galárraga, Geremy Heitz, Kevin Murphy, Fabian M. Suchanek_
 
 ### Open Knowledge Graph Link Prediction
 
