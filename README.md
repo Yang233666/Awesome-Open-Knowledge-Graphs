@@ -68,7 +68,7 @@ An OIE system aims to make the following extractions:
 
 ### 2021
 
-* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL)) ([video](https://dl.acm.org/doi/10.1145/3448016.3452776))
+* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/pdf/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL)) ([video](https://dl.acm.org/doi/10.1145/3448016.3452776))
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
 
@@ -90,7 +90,7 @@ An OIE system aims to make the following extractions:
 
    Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
    
-* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) - ACL 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/)) ([video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
+* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://aclanthology.org/2020.acl-main.209.pdf) - ACL 2020 ([code](https://github.com/samuelbroscheit/open_knowledge_graph_embeddings)) ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/)) ([video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
 
@@ -130,11 +130,11 @@ An OIE system aims to make the following extractions:
    
 ### 2018
 
-* *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/citation.cfm?id=3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
+* *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/doi/pdf/10.1145/3178876.3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
   
   Shikhar Vashishth, Prince Jain, Partha Talukdar
 
-* *["Towards Practical Open Knowledge Base Canonicalization"](https://dl.acm.org/citation.cfm?id=3271707)* - CIKM 2018
+* *["Towards Practical Open Knowledge Base Canonicalization"](https://dl.acm.org/doi/pdf/10.1145/3269206.3271707)* - CIKM 2018
 
    Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin
 
@@ -161,7 +161,7 @@ An OIE system aims to make the following extractions:
 
    Wei Shen, Yang Yang, Yinan Liu
 
-* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL)) ([video](https://dl.acm.org/doi/10.1145/3448016.3452776))
+* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/pdf/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL)) ([video](https://dl.acm.org/doi/10.1145/3448016.3452776))
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
 
@@ -181,11 +181,11 @@ An OIE system aims to make the following extractions:
 
    Xueling Lin, Lei Chen
 
-* *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/citation.cfm?id=3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
+* *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/doi/pdf/10.1145/3178876.3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
   
   Shikhar Vashishth, Prince Jain, Partha Talukdar
   
-* *["Towards Practical Open Knowledge Base Canonicalization"](https://dl.acm.org/citation.cfm?id=3271707)* - CIKM 2018
+* *["Towards Practical Open Knowledge Base Canonicalization"](https://dl.acm.org/doi/pdf/10.1145/3269206.3271707)* - CIKM 2018
 
    Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin
 
@@ -195,11 +195,11 @@ An OIE system aims to make the following extractions:
 
 ### Open Knowledge Graph Link Prediction
 
-* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225/) - ACL 2021
+* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225.pdf) - ACL 2021 ([code](https://github.com/Chandrahasd/OKGIT)) ([video](https://aclanthology.org/2021.findings-acl.225.mp4))
 
    	Chandrahas, Partha Pratim Talukdar
     
-* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) - ACL 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/)) ([video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
+* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://aclanthology.org/2020.acl-main.209.pdf) - ACL 2020 ([code](https://github.com/samuelbroscheit/open_knowledge_graph_embeddings)) ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/)) ([video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
 
