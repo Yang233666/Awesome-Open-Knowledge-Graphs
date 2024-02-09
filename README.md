@@ -76,7 +76,7 @@ An OIE system aims to make the following extractions:
 
    Hao Xin, Xueling Lin, Lei Chen
 
-* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225/) - ACL 2021
+* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225.pdf) - ACL 2021 ([code](https://github.com/Chandrahasd/OKGIT)) ([video](https://aclanthology.org/2021.findings-acl.225.mp4))
 
    	Chandrahas, Partha Pratim Talukdar
     
