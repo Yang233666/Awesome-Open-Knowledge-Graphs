@@ -201,12 +201,18 @@ An OIE system aims to make the following extractions:
 * *["Collaborative Policy Learning for Open Knowledge Graph Reasoning"](https://www.aclweb.org/anthology/D19-1269.pdf)* - EMNLP 2019 ([code](https://github.com/INK-USC/CPL))
  
    Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
-  
+
+### Open Knowledge Graph Alignment
+
+* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) - Eval4NLP@EMNLP 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)), ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study)), ([slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf))
+
+   Kiril Gashteovski, Rainer Gemulla, Bhushan Kotnis, Sven Hertling, Christian Meilicke
+   
 ### OKGs for downstream applications
 
 OKG's output has been shown to be a useful input for many downstream tasks. In this section, several downstream tasks that benefited from OKG output are listed. 
 
-### Entity and Relation Linking
+#### Entity and Relation Linking
 
 * [*"CaSIE: Canonicalize and Informative Selection of the OpenIE system"*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825) - ICDE 2021
 
