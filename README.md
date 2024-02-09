@@ -80,7 +80,7 @@ An OIE system aims to make the following extractions:
 
    	Chandrahas, Partha Pratim Talukdar
     
-* [*"Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811/) - EMNLP 2021 ([code](https://github.com/IBM/Open-KG-canonicalization))
+* [*"Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811.pdf) - EMNLP 2021 ([code](https://github.com/IBM/Open-KG-canonicalization)) ([video](https://aclanthology.org/2021.emnlp-main.811.mp4))
 
     Sarthak Dash, Gaetano Rossiello, Nandana Mihindukulasooriya, Sugato Bagchi, Alfio Gliozzo
 
@@ -165,7 +165,7 @@ An OIE system aims to make the following extractions:
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
 
-* [*"Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811/) - EMNLP 2021 ([code](https://github.com/IBM/Open-KG-canonicalization))
+* [*"Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811.pdf) - EMNLP 2021 ([code](https://github.com/IBM/Open-KG-canonicalization)) ([video](https://aclanthology.org/2021.emnlp-main.811.mp4))
 
     Sarthak Dash, Gaetano Rossiello, Nandana Mihindukulasooriya, Sugato Bagchi, Alfio Gliozzo
 
