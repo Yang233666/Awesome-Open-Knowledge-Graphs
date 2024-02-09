@@ -64,7 +64,7 @@ An OIE system aims to make the following extractions:
 
 [SIGKDD' 2022] **Multi-View Clustering for Open Knowledge Base Canonicalization** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) | [Code](https://github.com/Yang233666/CMVC) | [video](https://dl.acm.org/doi/10.1145/3534678.3539449)]
 
-Wei Shen, Yang Yang, Yinan Liu
+		Wei Shen, Yang Yang, Yinan Liu
 
 ### 2021
 
