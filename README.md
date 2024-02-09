@@ -106,7 +106,7 @@ An OIE system aims to make the following extractions:
 
    Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang
 
- * [*Language Models are Open Knowledge Graphs*](https://arxiv.org/abs/2010.11967) - CoRR 2020
+ * [*Language Models are Open Knowledge Graphs*](https://arxiv.org/pdf/2010.11967.pdf) - CoRR 2020
 
    Chenguang Wang, Xiao Liu, Dawn Song
 
@@ -124,7 +124,7 @@ An OIE system aims to make the following extractions:
  
    Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, Xiang Ren
    
-* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 ([data + resources](https://www.uni-mannheim.de/dws/research/resources/opiec/) [code (data reading)](https://github.com/uma-pi1/OPIEC) [code (pipeline)](https://github.com/uma-pi1/OPIEC-pipeline))
+* *["OPIEC: An Open Information Extraction Corpus"](https://openreview.net/pdf?id=HJxeGb5pTm)* - AKBC 2019 ([data + resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) ([code (data reading)](https://github.com/uma-pi1/OPIEC)) ([code (pipeline)](https://github.com/uma-pi1/OPIEC-pipeline))
 
   Kiril Gashteovski, Sebastian Wanner, Sven Hertling, Samuel Broscheit, Rainer Gemulla
    
@@ -184,7 +184,7 @@ An OIE system aims to make the following extractions:
 * *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/doi/pdf/10.1145/3178876.3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
   
   Shikhar Vashishth, Prince Jain, Partha Talukdar
-  
+
 * *["Towards Practical Open Knowledge Base Canonicalization"](https://dl.acm.org/doi/pdf/10.1145/3269206.3271707)* - CIKM 2018
 
    Tien-Hsuan Wu, Zhiyong Wu, Ben Kao, Pengcheng Yin
