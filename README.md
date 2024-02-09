@@ -76,7 +76,7 @@ An OIE system aims to make the following extractions:
 
 ### 2020
 
-* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - VLDB 2020 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) ([Readme])(https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
+* [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - VLDB 2020 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) [Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
 
    Xueling Lin, Haoyang Li, Hao Xin, Zijian Li, Lei Chen
    
