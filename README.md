@@ -21,12 +21,6 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 
 - [Introduction to Open Knowledge Graphs](#introduction-to-open-knowledge-graphs)
 - [Papers by venues](#papers-by-venues)
-  * [2022](#2022)
-  * [2021](#2021)
-  * [2020](#2020)
-  * [2019](#2019)
-  * [2018](#2018)
-  * [2014](#2014)
 - [Papers by categories](#papers-by-categories)
   * [Survey Papers](#survey-papers)
   * [Evaluation](#evaluation)
