@@ -19,20 +19,31 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 
 ## Table of contents
 
-- [Introduction to Open Knowledge Graphs](#introduction-to-OKG)
-- [Papers by venues](#papers-grouped-by-venues)
-- [Papers by categories](#papers-grouped-by-category)
-  - [Survey Papers](#surveys)
-  - [Evaluation](#evaluation)
-  - [Open Knowledge Graph Canonicalization](#okg-canonicalization)
-  - [Open Knowledge Graph Link Prediction](#okg-link-prediction)
-  - [Open Knowledge Graph for downstream applications](#okg-for-downstream-applications)
+- [Introduction to Open Knowledge Graphs](#introduction-to-open-knowledge-graphs)
+- [Papers by venues](#papers-by-venues)
+  * [2022](#2022)
+  * [2021](#2021)
+  * [2020](#2020)
+  * [2019](#2019)
+  * [2018](#2018)
+  * [2014](#2014)
+- [Papers by categories](#papers-by-categories)
+  * [Survey Papers](#survey-papers)
+  * [Evaluation](#evaluation)
+  * [Open Knowledge Graph Canonicalization](#open-knowledge-graph-canonicalization)
+  * [Open Knowledge Graph Link Prediction](#open-knowledge-graph-link-prediction)
+  * [Open Knowledge Graph Reasoning](#open-knowledge-graph-reasoning)
+  * [Open Knowledge Graph Alignment](#open-knowledge-graph-alignment)
+  * [OKGs for downstream applications](#okgs-for-downstream-applications)
+    + [Entity and Relation Linking](#entity-and-relation-linking)
 - [Slides](#slides)
 - [Talks](#talks)
 - [Code](#code)
 - [Data](#data)
-  - [OIE corpora](#oie-corpora)
-- [Other Repos](#others)
+  * [OIE corpora](#oie-corpora)
+- [Other Repos](#other-repos)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Introduction to Open Knowledge Graphs
