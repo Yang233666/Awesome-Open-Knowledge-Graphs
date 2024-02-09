@@ -151,20 +151,6 @@ An OIE system aims to make the following extractions:
 
 
 ### Evaluation
-
-### Open Knowledge Graph Link Prediction
-
-* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225/) - ACL 2021
-
-   	Chandrahas, Partha Pratim Talukdar
-    
-* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) - ACL 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
-
-   Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
-
-* *["CaRe: Open Knowledge Graph Embeddings"](https://aclanthology.org/D19-1036.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
-
-   Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
    
 ### Open Knowledge Graph Canonicalization
    
@@ -175,10 +161,6 @@ An OIE system aims to make the following extractions:
 * [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL)) ([video](https://dl.acm.org/doi/10.1145/3448016.3452776))
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
-    
-* [*"CaSIE: Canonicalize and Informative Selection of the OpenIE system"*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825) - ICDE 2021
-
-   Hao Xin, Xueling Lin, Lei Chen
 
 * [*"Open Knowledge Graphs Canonicalization using Variational Autoencoders"*](https://aclanthology.org/2021.emnlp-main.811/) - EMNLP 2021 ([code](https://github.com/IBM/Open-KG-canonicalization))
 
@@ -207,13 +189,30 @@ An OIE system aims to make the following extractions:
 * *["Canonicalizing Open Knowledge Bases"](https://suchanek.name/work/publications/cikm2014.pdf)* - CIKM 2014
 
   Luis Galárraga, Geremy Heitz, Kevin Murphy, Fabian M. Suchanek
-  
+
+### Open Knowledge Graph Link Prediction
+
+* [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225/) - ACL 2021
+
+   	Chandrahas, Partha Pratim Talukdar
+    
+* [*"Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction"*](https://www.aclweb.org/anthology/2020.acl-main.209/) - ACL 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/olpbench/), [video](https://slideslive.com/38929433/can-we-predict-new-facts-with-open-knowledge-graph-embeddings-a-benchmark-for-open-link-prediction))
+
+   Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
+
+* *["CaRe: Open Knowledge Graph Embeddings"](https://aclanthology.org/D19-1036.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
+
+   Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
   
 ### OKGs for downstream applications
 
 OKG's output has been shown to be a useful input for many downstream tasks. In this section, several downstream tasks that benefited from OKG output are listed. 
 
 ### Entity and Relation Linking
+
+* [*"CaSIE: Canonicalize and Informative Selection of the OpenIE system"*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825) - ICDE 2021
+
+   Hao Xin, Xueling Lin, Lei Chen
 
 * [*"KBPearl: A Knowledge Base Population System Supported by Joint Entity and Relation Linking"*](http://www.vldb.org/pvldb/vol13/p1035-lin.pdf) - VLDB 2020 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Fkbpearl%5Fdemo%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1) ([Readme](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2FKBPEARL%5FREADME%2Emd&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1))
 
