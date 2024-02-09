@@ -94,7 +94,7 @@ An OIE system aims to make the following extractions:
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
 
-* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) - Eval4NLP@EMNLP 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study)) ([slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf))
+* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://aclanthology.org/2020.eval4nlp-1.14.pdf) - Eval4NLP@EMNLP 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study)) ([slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf))
 
    Kiril Gashteovski, Rainer Gemulla, Bhushan Kotnis, Sven Hertling, Christian Meilicke
       
@@ -215,7 +215,7 @@ An OIE system aims to make the following extractions:
 
 ### Open Knowledge Graph Alignment
 
-* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://www.aclweb.org/anthology/2020.eval4nlp-1.14/) - Eval4NLP@EMNLP 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study)) ([slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf))
+* [*"On Aligning OpenIE Extractions with Knowledge Bases: A Case Study"*](https://aclanthology.org/2020.eval4nlp-1.14.pdf) - Eval4NLP@EMNLP 2020 ([resources](https://www.uni-mannheim.de/dws/research/resources/opiec/)) ([video](https://slideslive.com/38939720/on-aligning-openie-extractions-with-knowledge-bases-a-case-study)) ([slides](https://www.uni-mannheim.de/media/Einrichtungen/dws/pi1/opiec/dsa-ota-talk-final.pdf))
 
    Kiril Gashteovski, Rainer Gemulla, Bhushan Kotnis, Sven Hertling, Christian Meilicke
    
