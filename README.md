@@ -227,26 +227,11 @@ OKG's output has been shown to be a useful input for many downstream tasks. In t
 
 ## Slides
 * [\[pdf\] *"Compact Open Information Extraction on Large Corpora"*](https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_People/Researchers/gashteovski/oie_nec_labs_gashteovski.pdf). Talk by Kiril Gashteovski given at NEC Labs Europe GmbH, 2019.
-* [\[pdf\] *"(Information Extraction) Lecture 10 – Ontological and Open IE"*](http://www.cis.uni-muenchen.de/~fraser/information_extraction_2015_lecture/10_ontological_and_open_IE.pdf): A lecture on Open IE, which is part of the course ["Information Extraction"](http://www.cis.uni-muenchen.de/~fraser/information_extraction_2018_lecture/), by [Prof. Dr. Alexander Fraser](http://www.cis.uni-muenchen.de/~fraser/), from LMU München
-* Open IE Tutorial: [Open Information Extraction for QA](https://www.slideshare.net/andrenfreitas/open-ie-tutorial-2018) by [André Freitas](http://andrefreitas.org/). Tutorial was presented on OKBQA 2018
-* [\[pdf\] "Chinese Open Relation Extraction and Knowledge Base Establishment"](https://hong.xmu.edu.cn/__local/B/68/C0/92B8F8DC6AC06A3F256E1FE1A6F_9556CC90_4CCA5D.pdf?e=.pdf), 2018
-* [\[pdf\] *"Brief Introduction and Review of Open Information Extraction (Open-IE) Systems"*](https://ece.umd.edu/~smiran/OpenIE.pdf). Project Presentation by Sina Miran.
-* [\[pdf\] *"Open Information Extraction Systems and Downstream Applications"*](https://homes.cs.washington.edu/~mausam/papers/ijcai16-earlycareer.pdf) by [Prof. Mausam](http://www.cse.iitd.ernet.in/~mausam/). The talk was presented at [IJCAI 2016](http://ijcai-16.org/)
-* [\[pptx\] *"Open Information Extraction from the Web"*](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx), presented by [Prof. Oren Etzioni](https://allenai.org/team/orene/). The tutorial was presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/)
-* [\[pdf\] *"ClausIE: Clause-Based Open Information Extraction"*](https://people.mpi-inf.mpg.de/~corrogg/publications/delcorro13clausie-slides.pdf) by [Luciano del Corro](https://people.mpi-inf.mpg.de/~corrogg/). 
-* [\[pdf\] *"Open Information Extraction: the Second Generation"*](http://www.cse.iitd.ac.in/~mausam/courses/col864/spring2017/slides/03-openie.pdf)
-* [\[pdf\] *"Open Information Extraction: Where Are We Going?"*](http://wwwusers.di.uniroma1.it/~dellibovi/talks/talk_OIE.pdf) by [Claudio Delli Bovi](http://wwwusers.di.uniroma1.it/~dellibovi/), 2016
-* [\[pdf\] *"An Informativeness Approach to Open Information Extraction Evaluation"*](http://www-etud.iro.umontreal.ca/~lechellw/papers/2016-CICLING.pdf) by [William Léchelle](http://www-etud.iro.umontreal.ca/~lechellw/), 2016 
 
 
 ## Talks
 
 * [*\[video\] "Open Information Extraction from the Web"*](https://www.youtube.com/watch?v=lMiLiPjGays&feature=youtu.be), by [Prof. Oren Etzioni](https://allenai.org/team/orene/), presented at [AKBC-WEKEX 2012](https://akbcwekex2012.wordpress.com/).
-Slides: [\[pptx\]](https://akbcwekex2012.files.wordpress.com/2012/06/slides-oren.pptx)
-* [*\[video\] "Open Information Extraction: Where Are We Going?"*](https://www.youtube.com/watch?v=EhOF_AbDwcE), by [Claudio Delli Bovi](http://wwwusers.di.uniroma1.it/~dellibovi/). The talk was given at AI2 in 2016. [Slides \[pdf\]](http://wwwusers.di.uniroma1.it/~dellibovi/talks/talk_OIE.pdf)
-* [*\[video\] "Nested Propositions in Open Information Extraction"*](https://vimeo.com/239245885) by Nikita Bhutani at EMNLP 2016
-* [*\[video\] "Creating a Large Benchmark for Open Information Extraction"*](https://vimeo.com/239251034) by Gabriel Stanovsky at EMNLP 2016  
-* [*\[video\] "OpenCeres: When Open Information Extraction Meets the Semi-Structured Web"*](https://vimeo.com/355837778) by Colin Lockard at NAACL 2019 [slides \[pdf\]](https://homes.cs.washington.edu/~lockardc/OpenCeres_NAACL_talk.pdf)
 
 ## Code
 
