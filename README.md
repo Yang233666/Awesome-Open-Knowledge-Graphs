@@ -69,12 +69,10 @@ Wei Shen, Yang Yang, Yinan Liu
 ### 2021
 
 [SIGMOD' 2021] **Joint Open Knowledge Base Canonicalization and Linking** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3448016.3452776) | [code](https://github.com/JOCL-repo/JOCL) | [Video](https://dl.acm.org/doi/10.1145/3448016.3452776)]
-
-   	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
+Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
 
 [ICDE' 2021] **CaSIE: Canonicalize and Informative Selection of the OpenIE system** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825)]
-
-   Hao Xin, Xueling Lin, Lei Chen
+Hao Xin, Xueling Lin, Lei Chen
 
 * [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225.pdf) - ACL 2021 ([code](https://github.com/Chandrahasd/OKGIT)) ([video](https://aclanthology.org/2021.findings-acl.225.mp4))
 
