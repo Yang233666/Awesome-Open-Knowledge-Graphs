@@ -21,12 +21,6 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
 
 * [Introduction to Open Knowledge Graphs](#introduction-to-OKG)
 * [Papers by venues](#papers-sorted-in-chronological-order)
-  * [2022](#2022)
-  * [2021](#2021)
-  * [2020](#2020)
-  * [2019](#2019)
-  * [2018](#2018)
-  * [2014](#2014)
 * [Papers by categories](#papers-grouped-by-category)
   * [Survey Papers](#surveys)
   * [Evaluation](#evaluation)
@@ -64,7 +58,7 @@ An OIE system aims to make the following extractions:
 
 ### 2021
 
-* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL))
+* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL)) ([video](https://dl.acm.org/doi/10.1145/3448016.3452776))
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
     
@@ -120,7 +114,7 @@ An OIE system aims to make the following extractions:
 
    Chengyu Wang, Xiaofeng He, Aoying Zhou
 
-* *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
+* *["CaRe: Open Knowledge Graph Embeddings"](https://aclanthology.org/D19-1036.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
 
    Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
    
@@ -168,13 +162,17 @@ An OIE system aims to make the following extractions:
 
    Samuel Broscheit, Kiril Gashteovski, Yanjie Wang, Rainer Gemulla
 
+* *["CaRe: Open Knowledge Graph Embeddings"](https://aclanthology.org/D19-1036.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
+
+   Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
+   
 ### Open Knowledge Graph Canonicalization
    
 * [*"Multi-View Clustering for Open Knowledge Base Canonicalization"*](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) - SIGKDD 2022 ([code](https://github.com/Yang233666/CMVC)) ([video](https://dl.acm.org/doi/10.1145/3534678.3539449))
 
    Wei Shen, Yang Yang, Yinan Liu
 
-* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL))
+* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/abs/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL)) ([video](https://dl.acm.org/doi/10.1145/3448016.3452776))
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
     
@@ -197,10 +195,6 @@ An OIE system aims to make the following extractions:
 * *["Canonicalization of Open Knowledge Bases with Side Information from the Source Text"](https://ieeexplore.ieee.org/abstract/document/8731346)* - ICDE 2019 ([code](https://hkustconnect-my.sharepoint.com/personal/xlinai_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos%2Ficde2019%5Fsist%5Fcode%2Ezip&parent=%2Fpersonal%2Fxlinai%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdemos&ga=1)) ([Dataset Description](https://heathersherry.github.io/ICDE2019_data.html))
 
    Xueling Lin, Lei Chen
-   
-* *["CaRe: Open Knowledge Graph Embeddings"](http://talukdar.net/papers/CaRe_EMNLP2019.pdf)* - EMNLP 2019 ([code](https://github.com/malllabiisc/CaRE))
-
-   Swapnil Gupta, Sreyash Kenkre, Partha Talukdar
 
 * *["CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information"](https://dl.acm.org/citation.cfm?id=3186030)* - WWW 2018 ([code](https://github.com/malllabiisc/cesi))
   
