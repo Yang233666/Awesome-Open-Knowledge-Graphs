@@ -62,18 +62,17 @@ An OIE system aims to make the following extractions:
    
 ### 2022
 
-[SIGKDD 2022] **Multi-View Clustering for Open Knowledge Base Canonicalization** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) | [Code](https://github.com/Yang233666/CMVC) | [video](https://dl.acm.org/doi/10.1145/3534678.3539449)]
+[SIGKDD' 2022] **Multi-View Clustering for Open Knowledge Base Canonicalization** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539449) | [Code](https://github.com/Yang233666/CMVC) | [video](https://dl.acm.org/doi/10.1145/3534678.3539449)]
 
    Wei Shen, Yang Yang, Yinan Liu
 
 ### 2021
 
-* [*"Joint Open Knowledge Base Canonicalization and Linking"*](https://dl.acm.org/doi/pdf/10.1145/3448016.3452776) - SIGMOD 2021 ([code](https://github.com/JOCL-repo/JOCL)) ([video](https://dl.acm.org/doi/10.1145/3448016.3452776))
+[SIGMOD' 2021] **Joint Open Knowledge Base Canonicalization and Linking** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3448016.3452776) | [code](https://github.com/JOCL-repo/JOCL) | [Video](https://dl.acm.org/doi/10.1145/3448016.3452776)]
 
    	Yinan Liu, Wei Shen, Yuanfei Wang, Jianyong Wang, Zhenglu Yang, Xiaojie Yuan
 
-* [*"CaSIE: Canonicalize and Informative Selection of the OpenIE system"*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825) - ICDE 2021
-
+[ICDE' 2021] **CaSIE: Canonicalize and Informative Selection of the OpenIE system** [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458825)]
    Hao Xin, Xueling Lin, Lei Chen
 
 * [*"OKGIT: Open Knowledge Graph Link Prediction with Implicit Types"*](https://aclanthology.org/2021.findings-acl.225.pdf) - ACL 2021 ([code](https://github.com/Chandrahasd/OKGIT)) ([video](https://aclanthology.org/2021.findings-acl.225.mp4))
