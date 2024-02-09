@@ -43,7 +43,6 @@ This collection is not limited to Open Knowledge Graphs but also includes their 
   * [OIE corpora](#oie-corpora)
 - [Other Repos](#other-repos)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## Introduction to Open Knowledge Graphs
